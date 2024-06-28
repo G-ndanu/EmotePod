@@ -1,4 +1,3 @@
-#EmotePod
 Project Name: EmotePod
 
 Project Description:
